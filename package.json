@@ -1,0 +1,21 @@
+{
+  "name": "user-register",
+  "version": "1.0.0",
+  "description": "User registration with some validations and without dependencies. Node.js technology",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeansanchez/user-register.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeansanchez/user-register/issues"
+  },
+  "homepage": "https://github.com/jeansanchez/user-register#readme",
+  "dependencies": {}
+}
